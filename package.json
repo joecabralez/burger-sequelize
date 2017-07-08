@@ -23,7 +23,9 @@
     "express-handlebars": "^3.0.0",
     "method-override": "^2.3.9",
     "mysql": "^2.13.0",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "pg": "^6.4.0",
+    "sequelize": "^4.2.1"
   },
   "engines": {
     "node": "0.8.x",
